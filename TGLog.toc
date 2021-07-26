@@ -1,0 +1,11 @@
+## Interface: 20501
+## Title: TGLog
+## Author: Empirical
+## Version 1.0
+## DefaultState: enabled
+## Notes: Logging tool.
+## URL: 
+## Dependencies:
+## SavedVariables:
+
+TGLog.lua
