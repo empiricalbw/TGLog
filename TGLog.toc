@@ -1,4 +1,4 @@
-## Interface: 20501
+## Interface: 11404
 ## Title: TGLog
 ## Author: Empirical
 ## Version 1.0
